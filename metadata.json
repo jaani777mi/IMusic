@@ -1,0 +1,6 @@
+{
+  "name": "IMusic - Native Android Music Player",
+  "description": "Premium native Android music player with Liquid UI, AMOLED black theme, ExoPlayer Media3 background audio, MediaStore local library scanner, and Gemini AI DJ Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
